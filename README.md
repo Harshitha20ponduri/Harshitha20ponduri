@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harshitha.Ponduri
+ Hi, I’m Harshitha.Ponduri
   
 <!---
 Harshitha20ponduri/Harshitha20ponduri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
